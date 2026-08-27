@@ -108,6 +108,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [SPA](https://github.com/HkTeamX/elysia-spa) - Type-safe Elysia plugin for serving Single Page Applications from a static folder.
 - [Vision](https://github.com/ephor/vision) - Meta-framework built on Elysia with a built-in observability dashboard — automatic tracing, live logs, and an API playground.
 - [@stitchapi/elysia](https://github.com/rejifald/StitchAPI/tree/main/packages/elysia) - Plugin that adds a StitchAPI seam to the context for typed outbound API calls, with per-request principal, SSE streaming, and error-to-HTTP mapping.
+- [Intlayer](https://github.com/aymericzip/intlayer) - Internationalization plugin for localized responses.
 
 ## License
 
